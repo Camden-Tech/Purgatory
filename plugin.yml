@@ -1,0 +1,12 @@
+main: me.BaddCamden.Purgatory.Main
+name: Purgatory
+version: 1.0
+author: BaddCamden
+
+api-version: 1.17
+
+depend: [PurgatoryAPI]
+
+commands:
+   PurgatoryF:
+      description: Purgatory settings and uses
